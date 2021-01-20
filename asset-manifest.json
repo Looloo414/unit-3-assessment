@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Looloo414/unit-3-assessment/static/css/main.579d2bed.chunk.css",
+    "main.js": "/Looloo414/unit-3-assessment/static/js/main.af16af0c.chunk.js",
+    "main.js.map": "/Looloo414/unit-3-assessment/static/js/main.af16af0c.chunk.js.map",
+    "runtime-main.js": "/Looloo414/unit-3-assessment/static/js/runtime-main.b12902db.js",
+    "runtime-main.js.map": "/Looloo414/unit-3-assessment/static/js/runtime-main.b12902db.js.map",
+    "static/js/2.27544971.chunk.js": "/Looloo414/unit-3-assessment/static/js/2.27544971.chunk.js",
+    "static/js/2.27544971.chunk.js.map": "/Looloo414/unit-3-assessment/static/js/2.27544971.chunk.js.map",
+    "static/js/3.99c37003.chunk.js": "/Looloo414/unit-3-assessment/static/js/3.99c37003.chunk.js",
+    "static/js/3.99c37003.chunk.js.map": "/Looloo414/unit-3-assessment/static/js/3.99c37003.chunk.js.map",
+    "index.html": "/Looloo414/unit-3-assessment/index.html",
+    "static/css/main.579d2bed.chunk.css.map": "/Looloo414/unit-3-assessment/static/css/main.579d2bed.chunk.css.map",
+    "static/js/2.27544971.chunk.js.LICENSE.txt": "/Looloo414/unit-3-assessment/static/js/2.27544971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b12902db.js",
+    "static/js/2.27544971.chunk.js",
+    "static/css/main.579d2bed.chunk.css",
+    "static/js/main.af16af0c.chunk.js"
+  ]
+}
